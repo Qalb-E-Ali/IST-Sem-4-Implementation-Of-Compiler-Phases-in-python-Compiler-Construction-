@@ -7,3 +7,9 @@ The lexical analyzer module has a tokenize function that takes a string of code 
 The syntax tree generator module has a create_syntax_tree function that takes a string of code as input and uses the ast (Abstract Syntax Tree) module to generate a syntax tree for the code. The syntax tree is represented as a tree-like structure with nodes representing the different parts of the code. The function returns the syntax tree.
 
 Both modules can be tested by calling the respective functions and passing in some sample code. The output of the tests show the extracted tokens in the case of the lexical analyzer and the syntax tree in the case of the syntax tree generator.
+
+Lexical analyzer Output:
+![image](https://github.com/Qalb-E-Ali/IST-Sem-5-Implementation-Of-Compiler-Phases-in-python-Compiler-Construction-/blob/main/lexical%20analyzer%20Output.png)
+
+Syntax Tree Output:
+![image](https://github.com/Qalb-E-Ali/IST-Sem-5-Implementation-Of-Compiler-Phases-in-python-Compiler-Construction-/blob/main/Syntax%20Tree%20Output.png)
