@@ -1,4 +1,4 @@
-# IST-Sem-4-Implementation-Of-Compiler-Phases-in-python-Compiler-Construction-
+# IST-Sem-4-Implementation-Of-Compiler-Phases-in-Python-Compiler-Construction-
 In this assignment, we implemented Phases of compiler in python for our subject compiler construction.
 The given code consists of two modules: a lexical analyzer and a syntax tree generator.
 
